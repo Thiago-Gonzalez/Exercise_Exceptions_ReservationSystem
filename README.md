@@ -1,4 +1,4 @@
-# ReservationSystem_ExceptionsPractice
+# Exercise_Exceptions_ReservationSystem
 <p>Simples sistema de reservas de hotel implementado como prática dos conceitos de Orientação a Objetos e Tratamento de Exceções.</p>
 
 ![image](https://user-images.githubusercontent.com/80121288/171544741-bf3ebe95-0cda-4bc6-92d9-cab9371d3254.png)
